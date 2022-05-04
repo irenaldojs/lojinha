@@ -54,3 +54,7 @@ body{
     display: flex;
     margin-right: 10px;
 }
+
+.quemSomos p{
+    text-indent: 30px;
+}
